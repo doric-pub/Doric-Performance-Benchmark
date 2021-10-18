@@ -1,0 +1,114 @@
+Doric
+
+performance:
+
+2021-10-18 15:24:59.192 20590-20615/pub.doric.demo D/DoricPerformance: 1: Create prepared 1ms, cost 3ms.
+2021-10-18 15:24:59.195 20590-20615/pub.doric.demo D/DoricPerformance: 1: Call:__enableSnapshot__, prepared 3ms, cost 2ms.
+2021-10-18 15:24:59.196 20590-20615/pub.doric.demo D/DoricPerformance: 1: Call:__onCreate__, prepared 6ms, cost 0ms.
+2021-10-18 15:24:59.197 20590-20615/pub.doric.demo D/DoricPerformance: 1: Call:__onShow__, prepared 2ms, cost 1ms.
+2021-10-18 15:24:59.697 20590-20615/pub.doric.demo D/DoricPerformance: 1: Call:__build__,{"width":392.72726,"height":732.36365}, prepared 0ms, cost 480ms.
+2021-10-18 15:25:00.084 20590-20615/pub.doric.demo D/DoricPerformance: 1: Render prepared 1ms, cost 358ms.
+2021-10-18 15:25:00.330 20590-20615/pub.doric.demo D/DoricPerformance: 1: Call:__callback_0__, prepared 0ms, cost 28ms.
+2021-10-18 15:25:11.221 20590-20615/pub.doric.demo D/DoricPerformance: 1: Call:__onHidden__, prepared 4ms, cost 64ms.
+2021-10-18 15:25:11.760 20590-20615/pub.doric.demo D/DoricPerformance: 1: Call:__onDestroy__, prepared 1ms, cost 0ms.
+2021-10-18 15:25:11.762 20590-20615/pub.doric.demo D/DoricPerformance: 1: Destroy prepared 0ms, cost 0ms.
+
+2021-10-18 15:25:34.134 20590-20615/pub.doric.demo D/DoricPerformance: 2: Create prepared 0ms, cost 2ms.
+2021-10-18 15:25:34.134 20590-20615/pub.doric.demo D/DoricPerformance: 2: Call:__enableSnapshot__, prepared 2ms, cost 0ms.
+2021-10-18 15:25:34.135 20590-20615/pub.doric.demo D/DoricPerformance: 2: Call:__onCreate__, prepared 2ms, cost 1ms.
+2021-10-18 15:25:34.138 20590-20615/pub.doric.demo D/DoricPerformance: 2: Call:__onShow__, prepared 0ms, cost 1ms.
+2021-10-18 15:25:34.639 20590-20615/pub.doric.demo D/DoricPerformance: 2: Call:__build__,{"width":392.72726,"height":732.36365}, prepared 0ms, cost 472ms.
+2021-10-18 15:25:34.889 20590-20615/pub.doric.demo D/DoricPerformance: 2: Render prepared 1ms, cost 235ms.
+2021-10-18 15:25:35.064 20590-20615/pub.doric.demo D/DoricPerformance: 2: Call:__callback_1__, prepared 1ms, cost 26ms.
+2021-10-18 15:25:37.498 20590-20615/pub.doric.demo D/DoricPerformance: 2: Call:__onHidden__, prepared 1ms, cost 41ms.
+2021-10-18 15:25:38.071 20590-20615/pub.doric.demo D/DoricPerformance: 2: Call:__onDestroy__, prepared 1ms, cost 0ms.
+2021-10-18 15:25:38.072 20590-20615/pub.doric.demo D/DoricPerformance: 2: Destroy prepared 2ms, cost 0ms.
+
+2021-10-18 15:25:45.265 20590-20615/pub.doric.demo D/DoricPerformance: 3: Create prepared 0ms, cost 0ms.
+2021-10-18 15:25:45.265 20590-20615/pub.doric.demo D/DoricPerformance: 3: Call:__enableSnapshot__, prepared 1ms, cost 0ms.
+2021-10-18 15:25:45.265 20590-20615/pub.doric.demo D/DoricPerformance: 3: Call:__onCreate__, prepared 1ms, cost 0ms.
+2021-10-18 15:25:45.269 20590-20615/pub.doric.demo D/DoricPerformance: 3: Call:__onShow__, prepared 0ms, cost 1ms.
+2021-10-18 15:25:45.771 20590-20615/pub.doric.demo D/DoricPerformance: 3: Call:__build__,{"width":392.72726,"height":732.36365}, prepared 0ms, cost 478ms.
+2021-10-18 15:25:46.037 20590-20615/pub.doric.demo D/DoricPerformance: 3: Render prepared 0ms, cost 256ms.
+2021-10-18 15:25:46.212 20590-20615/pub.doric.demo D/DoricPerformance: 3: Call:__callback_2__, prepared 1ms, cost 25ms.
+2021-10-18 15:25:46.646 20590-20615/pub.doric.demo D/DoricPerformance: 3: Call:__onHidden__, prepared 2ms, cost 30ms.
+2021-10-18 15:25:47.247 20590-20615/pub.doric.demo D/DoricPerformance: 3: Call:__onDestroy__, prepared 1ms, cost 0ms.
+2021-10-18 15:25:47.251 20590-20615/pub.doric.demo D/DoricPerformance: 3: Destroy prepared 1ms, cost 2ms.
+
+2021-10-18 15:25:57.481 20590-20615/pub.doric.demo D/DoricPerformance: 4: Create prepared 0ms, cost 2ms.
+2021-10-18 15:25:57.481 20590-20615/pub.doric.demo D/DoricPerformance: 4: Call:__enableSnapshot__, prepared 2ms, cost 0ms.
+2021-10-18 15:25:57.482 20590-20615/pub.doric.demo D/DoricPerformance: 4: Call:__onCreate__, prepared 1ms, cost 0ms.
+2021-10-18 15:25:57.486 20590-20615/pub.doric.demo D/DoricPerformance: 4: Call:__onShow__, prepared 0ms, cost 0ms.
+2021-10-18 15:25:57.994 20590-20615/pub.doric.demo D/DoricPerformance: 4: Call:__build__,{"width":392.72726,"height":732.36365}, prepared 2ms, cost 487ms.
+2021-10-18 15:25:58.348 20590-20615/pub.doric.demo D/DoricPerformance: 4: Render prepared 18ms, cost 296ms.
+2021-10-18 15:25:58.550 20590-20615/pub.doric.demo D/DoricPerformance: 4: Call:__callback_3__, prepared 0ms, cost 20ms.
+2021-10-18 15:26:00.684 20590-20615/pub.doric.demo D/DoricPerformance: 4: Call:__onHidden__, prepared 6ms, cost 26ms.
+2021-10-18 15:26:01.263 20590-20615/pub.doric.demo D/DoricPerformance: 4: Call:__onDestroy__, prepared 0ms, cost 1ms.
+2021-10-18 15:26:01.264 20590-20615/pub.doric.demo D/DoricPerformance: 4: Destroy prepared 2ms, cost 0ms.
+
+2021-10-18 15:26:18.664 20590-20615/pub.doric.demo D/DoricPerformance: 6: Create prepared 0ms, cost 1ms.
+2021-10-18 15:26:18.664 20590-20615/pub.doric.demo D/DoricPerformance: 6: Call:__enableSnapshot__, prepared 2ms, cost 0ms.
+2021-10-18 15:26:18.664 20590-20615/pub.doric.demo D/DoricPerformance: 6: Call:__onCreate__, prepared 2ms, cost 0ms.
+2021-10-18 15:26:18.670 20590-20615/pub.doric.demo D/DoricPerformance: 6: Call:__onShow__, prepared 1ms, cost 2ms.
+2021-10-18 15:26:19.169 20590-20615/pub.doric.demo D/DoricPerformance: 6: Call:__build__,{"width":392.72726,"height":732.36365}, prepared 0ms, cost 474ms.
+2021-10-18 15:26:19.435 20590-20615/pub.doric.demo D/DoricPerformance: 6: Render prepared 1ms, cost 257ms.
+2021-10-18 15:26:19.612 20590-20615/pub.doric.demo D/DoricPerformance: 6: Call:__callback_5__, prepared 0ms, cost 23ms.
+2021-10-18 15:26:21.665 20590-20615/pub.doric.demo D/DoricPerformance: 6: Call:__onHidden__, prepared 0ms, cost 31ms.
+2021-10-18 15:26:22.281 20590-20615/pub.doric.demo D/DoricPerformance: 6: Call:__onDestroy__, prepared 1ms, cost 0ms.
+2021-10-18 15:26:22.283 20590-20615/pub.doric.demo D/DoricPerformance: 6: Destroy prepared 4ms, cost 0ms.
+
+
+Running process:	pub.doric.demo (pid 25381)
+Running thread:	DoricJSEngine
+State:	Runnable
+Start:	
+848.293 ms
+Duration:	
+0.014 ms
+On CPU:
+Running instead:
+Args:	
+{wakeup from tid: 25381}
+
+Title	
+VerifyClass pub.doric.plugin.ShaderPlugin 🔍
+Category	android
+User Friendly Category	other
+Start	
+1,315.461 ms
+Start (Absolute time)	
+347,622,857.403 ms
+Wall Duration	
+0.255 ms
+CPU Duration	
+0.255 ms
+
+First Screen Rendering cost: 467.168ms
+
+
+Title	
+deliverInputEvent src=0x1002 eventTimeNano=243783420718000 id=0x2fba6d77 🔍
+Category	android
+User Friendly Category	other
+Start	
+801.865 ms
+Start (Absolute time)	
+352,563,647.479 ms
+Wall Duration	
+7.240 ms
+Self Time	
+0.720 ms
+
+
+Title	
+syncAndDrawFrame 🔍
+Category	android
+User Friendly Category	other
+Start	
+973.941 ms
+Start (Absolute time)	
+352,563,819.555 ms
+Wall Duration	
+0.389 ms
+
+Update Props cost: 172.076ms

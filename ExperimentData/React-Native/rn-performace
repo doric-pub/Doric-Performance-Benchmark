@@ -1,0 +1,61 @@
+React Native
+
+performance:
+
+mqt_js 
+
+Title	
+Thread::Init 🔍
+Category	android
+User Friendly Category	other
+Start	
+1,437.329 ms
+Start (Absolute time)	
+345,760,094.584 ms
+Wall Duration	
+0.043 ms
+Self Time	
+0.006 ms
+
+
+Title	
+JIT compiling void com.facebook.react.uimanager.UIViewOperationQueue$ViewOperation.<init>(com.facebook.react.uimanager.UIViewOperationQueue, int) (baseline=0, osr=0) 🔍
+Category	android
+User Friendly Category	other
+Start	
+1,913.122 ms
+Start (Absolute time)	
+345,760,570.377 ms
+Wall Duration	
+0.518 ms
+CPU Duration	
+0.518 ms
+Self Time	
+0.013 ms
+CPU Self Time	
+0.013 ms
+
+First Screen Rendering cost: 475.793ms
+
+
+
+Title	
+deliverInputEvent 🔍
+Category	android
+Start	
+839.451 ms
+Wall Duration	
+37.166 ms
+
+Title	
+syncAndDrawFrame 🔍
+Category	android
+User Friendly Category	other
+Start	
+1,099.462 ms
+Start (Absolute time)	
+352,082,790.091 ms
+Wall Duration	
+10.296 ms
+
+Update Props cost: 260.011ms
